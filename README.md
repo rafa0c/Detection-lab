@@ -30,7 +30,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 <p align="center">
-*Ref 1: Network Diagram* <br/>
+Ref 1: Network Diagram<br/>
 <img src="https://i.imgur.com/RAuqxAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
