@@ -1,4 +1,4 @@
-# Detection Lab
+# Azure Detection Lab
 
 ## Objective
 [Brief Objective]
