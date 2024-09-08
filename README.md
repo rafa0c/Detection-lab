@@ -35,7 +35,7 @@ Ref 1: Network Diagram<br/>
 <br />
 <br />
 Ref 2: Virtual box  <br/>
-<img src="https://i.imgur.com/O9ZCBRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
