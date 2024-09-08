@@ -1,4 +1,4 @@
-# Azure Detection Lab
+#  🛡️  Azure Detection Lab
 
 ## 🎯 Objective
 
