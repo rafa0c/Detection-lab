@@ -62,7 +62,7 @@ Ref 6: create the new users   <br/>
 <br />
 Ref 7: show the new user in the GUI  <br/>
 <img src="https://i.imgur.com/1k6Fpw8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>>
+</p>
 
 
 
