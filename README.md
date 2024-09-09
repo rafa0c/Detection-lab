@@ -26,16 +26,12 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## 🔧 Steps Involved
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
+-  step here
+-  more step here
 
 ## 📊 Outcome
-70% reduction in false positive alerts, allowing analysts to focus on real threats.
-
-50% improvement in incident response times due to automated escalation.
-
-Enhanced SOC efficiency and improved collaboration through automated workflows.
+- resolution
+- concultion 
 
 
 
